@@ -4,9 +4,10 @@ This repository contains all my Machine Learning Lab experiments implemented usi
 
 Experiments
 
-| Experiment No. | Title | Notebook Link |
+| Experiment No. | Title |
 
 | Experiment 1 | Linear Regression | 
+
 | Experiment 2 | Polynomial Regression on Auto MPG Dataset | 
 
 ## Tools Used
