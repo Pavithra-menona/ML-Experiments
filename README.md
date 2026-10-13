@@ -22,6 +22,8 @@ Experiments
 
 | Experiment 8 | Neural Network using Sigmoid,ReLU,Tanh on MNIST dataset| 
 
+| Experiment 9 | Agglomerative and K-Means Clustering using Mall Customer Dataset| 
+
 ## Tools Used
 
 - Python
